@@ -1,0 +1,4 @@
+dotnet --version → verificar versão
+dotnet new console -o myapp → cria um projeto 
+dotnet build → compilar
+dotnet run → rodar
